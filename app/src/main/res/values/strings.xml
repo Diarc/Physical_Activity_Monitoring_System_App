@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Physical_Activity_Monitoring_System_App</string>
+    <string-array name="filter_options">
+        <item>Date</item>
+        <item>Running Time</item>
+        <item>Distance</item>
+        <item>Average Speed</item>
+        <item>Calories Burned</item>
+    </string-array>
+    <string-array name="sex">
+        <item>man</item>
+        <item>woman</item>
+    </string-array>
+    <string-array name="activity">
+        <item>lack</item>
+        <item>low</item>
+        <item>moderate</item>
+        <item>high</item>
+        <item>very high</item>
+    </string-array>
+    <string name="google_maps_key">AIzaSyDY23LcKTFr_SHyNS0hC0hW_9PJnXz8Itw</string>
+</resources>
